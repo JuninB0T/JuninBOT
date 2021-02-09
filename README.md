@@ -37,9 +37,9 @@ Siga os passos abaixo!
 
 > pkg install npm
 
-> git clone https://github.com/juninbot99/juninobot.git
+> git clone https://github.com/JuninB0T/JuninBOT.git
 
-> cd juniobut
+> cd JuninBOT
 
 > bash install.sh
 ```
@@ -48,7 +48,7 @@ Siga os passos abaixo!
 ```bash
 > npm start
 ```
-
+```bash
 ## Depois do QRcode
 
 cd juniobut
