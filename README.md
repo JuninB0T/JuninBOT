@@ -48,10 +48,11 @@ Siga os passos abaixo!
 ```bash
 > npm start
 ```
-```bash
 ## Depois do QRcode
 
-cd juniobut
+```bash
+
+cd JuninBOT
 
 > npm i -g pm2
 
